@@ -18,3 +18,5 @@
 : 소수 판별하기
 10. PrimeNumber_Sum
 : 소수의 합 구하기
+11. PrimeNumber_Count
+: 소수의 개수 구하기
