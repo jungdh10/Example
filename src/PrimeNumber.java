@@ -8,19 +8,19 @@ public class PrimeNumber {
 		int j;
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.print("소수인지 확인할 숫자를 입력:");
-		i = sc.nextInt();
+		System.out.print("소수인지 확인할 숫자 입력:");
+		i = sc.nextInt();		
 		
-		for(j=2; j<=i-1; j++) {
-			
-			if(i%j==0) {
-				System.out.println("소수가 아닙니다.");
-				break;
-			}else {
+		
+		j=2;
+		while(i%j != 0)
+			j++;
+		
+			if(i==j) {
 				System.out.println("소수 입니다.");
-				break;
+			}else {
+				System.out.println("소수가 아닙니다.");
 			}
-		}
 
 	}
 
