@@ -10,3 +10,4 @@
 10. PrimeNumber_Sum: 소수의 합 구하기
 11. PrimeNumber_Count: 소수의 개수 구하기
 12. PrimeNumber_2: 소수 판별하기(무한 while 사용)
+13. PrimeNumber_3: 소수 판별하기(제곱근 이용)
