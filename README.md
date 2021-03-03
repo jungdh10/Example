@@ -7,7 +7,7 @@
 7. Sum_Factorial: 팩토리얼 합계(1!+2!+3!+4!+5!+...10!)
 8. Fibonacci: 피보나치 수열(1+1+2+3+5+8...)
 9. PrimeNumber: 소수 판별하기
-10. PrimeNumber_Sum: 소수의 합 구하기
+10. PrimeNumber_Sum: 소수의 합 구하기(for문)
 11. PrimeNumber_Count: 소수의 개수 구하기
 12. PrimeNumber_2: 소수 판별하기(무한 while 사용)
 13. PrimeNumber_3: 소수 판별하기(제곱근 이용)
