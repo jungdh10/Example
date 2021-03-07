@@ -8,7 +8,7 @@
 8. Fibonacci: 피보나치 수열(1+1+2+3+5+8...)
 9. PrimeNumber: 소수 판별하기
 10. PrimeNumber_Sum: 소수의 합 구하기(for문)
-11. PrimeNumber_Count: 소수의 개수 구하기
+11. PrimeNumber_Count: 소수의 개수 구하기(배열)
 12. PrimeNumber_2: 소수 판별하기(무한 while 사용)
 13. PrimeNumber_3: 소수 판별하기(제곱근 이용)
 14. GCD_LCM: 최대공약수와 최소공배수(클리드 호제법)
