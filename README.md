@@ -12,4 +12,4 @@
 12. PrimeNumber_2: 소수 판별하기(무한 while 사용)
 13. PrimeNumber_3: 소수 판별하기(제곱근 이용)
 14. GCD_LCM: 최대공약수와 최소공배수(유클리드 호제법)
-15. Divisor: 약수 구하기
+15. Divisor: 약수 구하기(while문)
