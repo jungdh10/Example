@@ -13,4 +13,4 @@
 13. PrimeNumber_3: 소수 판별하기(제곱근 이용)
 14. GCD_LCM: 최대공약수와 최소공배수(유클리드 호제법)
 15. Divisor: 약수 구하기
-16. PrimeFactorization: 소인수 분해하
+16. PrimeFactorization: 소인수 분해하기
