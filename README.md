@@ -15,4 +15,4 @@
 15. Divisor: 약수 구하기
 16. PrimeFactorization: 소인수 분해하기
 17. Conversion: 10진수를 2진수로 변환하기
-18. Conversion2: 10진수를 임의의 진수로 변환하기
+18. PrimeNumber_Count: 소수의 개수 구하기
