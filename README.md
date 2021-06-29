@@ -18,3 +18,4 @@
 18. PrimeNumber_Count: 소수의 개수 구하기
 19. PrimeNumber_Count2: 소수의 개수 구하기
 20. Conversion2: 10진수를 임의의 진수로 변환하기
+21. Conversion3: 2진수를 10진수로 변환하기
