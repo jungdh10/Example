@@ -23,3 +23,4 @@
 23. Maximum: 최대값 구하기 
 24. Max_Min_Avg: 최대값과 최소값을 제외한 평균 구하기
 25. Multiple: 배수의 개수와 합
+26. CloseNumber: 가까운 수 
