@@ -24,4 +24,4 @@
 24. Max_Min_Avg: 최대값과 최소값을 제외한 평균 구하기
 25. Multiple: 배수의 개수와 합
 26. CloseNumber: 가까운 수 구하기
-27. 
+27. Complement: 보수 구하기
