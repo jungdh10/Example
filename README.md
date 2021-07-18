@@ -25,4 +25,4 @@
 25. Multiple: 배수의 개수와 합
 26. CloseNumber: 가까운 수 구하기
 27. Complement: 1의 보수 구하기
-28. Complement_2: 1의 보수 
+28. Complement_2: 1의 보수 구
