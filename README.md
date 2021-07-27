@@ -27,3 +27,4 @@
 27. Complement: 1의 보수 구하기
 28. Complement_2: 1의 보수 구하기
 29. Complement_3: 1의 보수, 2의 보수 구하기
+30. Complement_4: 2의 보수 구하기(다른 방법)
