@@ -28,4 +28,4 @@
 28. Complement_2: 1의 보수 구하기
 29. Complement_3: 1의 보수, 2의 보수 구하기
 30. Complement_4: 2의 보수 구하기(다른 방법)
-31. Complement_5: 보수의 보수 구하기
+31. Complement_5: 보수의 보수 구하기(2의 보수-> 1의 보수-> 원래 이진수)
