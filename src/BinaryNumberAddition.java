@@ -30,6 +30,7 @@ public class BinaryNumberAddition {
 		do {
 			z = x[j] + y[j] + c;
 			if(z < 2){
+				//두 이진수와 자리올림수의 합이 2보디ㅏ 작을 경우
 				c = 0;
 				a[j] = z;
 			}else {
