@@ -34,5 +34,5 @@
 34. BinaryNumberAddition: 이진수 더하기 
 
 <자료 구조>  
-35. SelectionSort: 선택 정렬 
+35. SelectionSort: 선택 정렬    
 36. BubbleSort: 버블 정렬 
