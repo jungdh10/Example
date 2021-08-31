@@ -36,4 +36,4 @@
 <자료 구조>  
 35. SelectionSort: 선택 정렬    
 36. BubbleSort: 버블 정렬   
-37. BubbleSort_MidExit: 버블 정렬(중간 종료)   
+  
