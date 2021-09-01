@@ -36,4 +36,5 @@
 <자료 구조>  
 35. SelectionSort: 선택 정렬    
 36. BubbleSort: 버블 정렬   
+37. InsertionSort: 삽입 정렬   
   
