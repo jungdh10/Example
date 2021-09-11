@@ -38,5 +38,6 @@
 36. BubbleSort: 버블 정렬   
 37. InsertionSort: 삽입 정렬  
 38. BubbleSort2: 버블 정렬(좌우로 번갈아 가면서 정렬)  
-39. GetRank: 석차 구하기   
+39. GetRank: 석차 구하기  
+40. GetRank2: 석차 구하기(석차를 배열에 넣지 않고 바로 출력)     
   
