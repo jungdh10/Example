@@ -42,4 +42,5 @@
 40. GetRank2: 석차 구하기(석차를 배열에 넣지 않고 바로 출력)  
 41. BinarySearch: 이분 검색  
 42. BinarySearch2: 2차원 배열   
+43. Merge: 병합하기   
   
