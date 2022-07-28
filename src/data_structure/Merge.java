@@ -14,78 +14,81 @@ public class Merge {
 	
 	
 	public static void main(String[] args) {
-	
+		
 		
 		while(true){
 			
 			k++;
-
-			if(a[i] < b[j]) {
+			
+			if(a[i] < b[j]) {			
+				if(a[i] != 0) {
+					c[k] = a[i];
+				}else {
+					k--;
+					bMethod(b, c);
+				}
+				i++;			
+			}else if(a[i] == b[j]) {	
 				c[k] = a[i];
 				i++;
+				j++;
 				if(a[i] == 0) {
 					bMethod(b, c);
-				}
-			}else if(a[i] == b[j]) {
-				c[k] = a[i];
-				i++;
-				j++;
-				if(a[i] == 0 ) {
-					bMethod(b, c);
 				}else if(b[j] == 0) {
+					aMethod(a, c);				
+				}
+			}else {	
+				if(b[j] != 0) {
+					c[k] = b[j];
+				}
+				else{
+					k--;
 					aMethod(a, c);
 				}
-			}else {
-				c[k] = b[j];
 				j++;
-				if(b[j] == 0) {
-					aMethod(a, c);
-				}
-			}
+			}			
 			
-			
+						
 			System.out.printf("%d\t", c[k]);
-			
-			
 		
 			
-		}	
+			
+		}
+		
 		
 	
-		
 	}
-	
 	
 
 	//메소드 선언
-	static void aMethod(int[] a, int[] c) {
+	static void aMethod(int[] a, int[] c) {	
 		do {
 			k++;
 			c[k] = a[i];
 			i++;
+			System.out.printf("%d\t", c[k]);
 		}while(a[i] != 0);
-		cMethod(c);
-	
+		cMethod(c);	
 	}
 	
-
-	static void bMethod(int[] b, int[] c) {
+	
+	static void bMethod(int[] b, int[] c) {		
 		do {
 			k++;
 			c[k] = b[j];
 			j++;
+			System.out.printf("%d\t", c[k]);
 		}while(b[j] != 0);
-		cMethod(c);
+		cMethod(c);	
 	}
 
 	
 	static void cMethod(int[] c) {
 		k++;
 		c[k] = 0;
+		System.out.printf("%d\t", c[k]);
 		System.exit(0);;
 	}
+	
 
-	
-	
 }
-
