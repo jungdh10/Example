@@ -49,5 +49,6 @@
 45. Basic: 5행 5열 데이터 채우기   
 46. Basic2: 5행 5열 데이터 채우기(세로)   
 47. RightTriangle: 직각삼각형   
+48, RightTriangle2: 직각삼각형(오른쪽)   
 
  
