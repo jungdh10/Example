@@ -50,6 +50,7 @@
 46. Basic2: 5행 5열 데이터 채우기(세로)   
 47. RightTriangle: 직각삼각형   
 48. RightTriangle2: 직각삼각형(오른쪽)   
-49. Basic3: "ㄹ"자로 데이터 채우기   
+49. Basic3: "ㄹ"자로 데이터 채우기  
+50. Basic4: "ㄹ"자로 데이터 채우기(togle)   
 
  
