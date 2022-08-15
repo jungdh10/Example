@@ -51,6 +51,6 @@
 47. RightTriangle: 직각삼각형   
 48. RightTriangle2: 직각삼각형(오른쪽)   
 49. Basic3: "ㄹ"자로 데이터 채우기  
-50. Basic4: "ㄹ"자로 데이터 채우기(togle)   
+50. Basic4: "ㄹ"자로 데이터 채우기(toggle)   
 
  
