@@ -61,6 +61,7 @@
 57. Isosceles: 이등변 삼각형 만들기  
 58. Isosceles2: 이등변 삼각형 만들기(열의 크기 입력받기)  
 59. Turn_90Degrees: 90도 회전하기   
+60. Tornado: 회오리 모양 만들기   
 
 
 
