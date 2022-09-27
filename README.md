@@ -31,7 +31,8 @@
 31. Complement_5: 보수의 보수 구하기(2의 보수-> 1의 보수-> 원래 이진수)
 32. GrayCode: 그레이코드-> 이진수, 이진수-> 그레이코드로 변환하기 
 33. NumberAddition: 12자리로 구성된 큰 수들 계산하기 
-34. BinaryNumberAddition: 이진수 더하기 
+34. BinaryNumberAddition: 이진수 더하기   
+35. MoneyCalculation: 화폐 종류별 매수 계산하기   
 
 <자료 구조>  
 35. SelectionSort: 선택 정렬    
