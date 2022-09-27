@@ -32,7 +32,6 @@
 32. GrayCode: 그레이코드-> 이진수, 이진수-> 그레이코드로 변환하기 
 33. NumberAddition: 12자리로 구성된 큰 수들 계산하기 
 34. BinaryNumberAddition: 이진수 더하기   
-35. MoneyCalculation: 화폐 종류별 매수 계산하기   
 
 <자료 구조>  
 35. SelectionSort: 선택 정렬    
@@ -66,6 +65,9 @@
 61. Diagonal: 대각선으로 채우기   
 62. MagicSquare: 마방진(가로와 세로의 합이 모두 같은)   
 63. MatrixTransformation: 행렬변환   
+
+<응용 알고리즘>   
+
 
 
 
