@@ -68,7 +68,7 @@
 
 <응용 알고리즘>   
 64. MoneyCalculation: 화폐 종류별 매수 계산   
-65. MoneyCalculation: 화폐 종류별 매수 계산(while문)   
+65. MoneyCalculation2: 화폐 종류별 매수 계산(while문)   
 
 
 
